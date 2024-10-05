@@ -2,7 +2,7 @@
 
 # 📝 Todo API
 
-This is a simple Todo API that allows you to manage a todo list for different users. The API supports creating, retrieving, and deleting todos while ensuring that duplicate todos for the same user are not allowed.
+This is a simple Todo API that allows you to manage a todo list for different users. The API supports creating, retrieving, and deleting todos .
 
 ## 📬 Post Request Example
 ```json
