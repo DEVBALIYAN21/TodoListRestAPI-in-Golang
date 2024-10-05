@@ -11,6 +11,27 @@ This is a simple Todo API that allows you to manage a todo list for different us
   "todo": "Get Milk From the Market"
 }
 ```
+## 🚀 Setting Up the Project
+
+To get started with the project, follow these steps:
+
+1. **Install the MySQL Driver**:  
+   Use the following command to install the MySQL server driver for Go:
+   ```bash
+   go get -u github.com/go-sql-driver/mysql
+   ```
+
+2. **Clean Up Dependencies**:  
+   Run the following command to clean up and manage your Go module dependencies:
+   ```bash
+   go mod tidy
+   ```
+
+3. **Run the Application**:  
+   Finally, to run the project, use:
+   ```bash
+   go run main.go
+   ```
 
 ## 🚀 API Endpoints & Commands(  if Any Error happens then remove .exe from curl)
 
